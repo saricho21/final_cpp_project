@@ -1,4 +1,4 @@
-#Final c++ project
+# Final c++ project
 This repository contains various c++ programs developed for fundamentals of programming assignment.
 ## 📋 Included Programs:--
 |**Electricity bill calculator**|: calculates monthly bills based on units consumed.
@@ -12,3 +12,10 @@ This repository contains various c++ programs developed for fundamentals of prog
 |**Quiz game system**|: a simple interactive question and answer program.
 |**Simple ATM simulation**|: simulates basic banking transactions.
 Author: saricho21
+
+## Group Members
+* **Sara Tamalew 1** ----ID: 0101/25
+* **Dagim         2**----ID:
+* **Endryas       3**----ID:
+* **Semhal        4**----ID:
+* **Nahom Atnafu  5**----ID:
