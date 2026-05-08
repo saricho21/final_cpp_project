@@ -1,6 +1,7 @@
 # Final c++ project
 This repository contains various c++ programs developed for fundamentals of programming assignment.
 ## 📋 Included Programs:--
+         |:---|:---|
 |**Electricity bill calculator**|: calculates monthly bills based on units consumed.
 |**Bank account simulation**|: a simple ATM like interface for deposit withdrawals.
 |**Student grade system**|: analyzes student marks, clculates average, and assigns grades.
@@ -14,8 +15,8 @@ This repository contains various c++ programs developed for fundamentals of prog
 Author: saricho21
 
 ## Group Members
-* **Sara Tamalew 1** ----ID: 0101/25
+* **Sara Tamalew 1** -----ID: 0101/25
 * **Dagim Shiferaw 2**----ID: 043/25
-* **Endrias Bahre  3**----ID: 0117/25
+* **Endrias Bahre  3**-----ID: 0117/25
 * **Semhar Michael 4**----ID: 0800/25
-* **Nahom Atnafu  5**----ID: 0172/25
+* **Nahom Atnafu  5**-----ID: 0172/25
