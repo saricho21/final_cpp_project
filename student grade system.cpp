@@ -42,3 +42,15 @@ int main() {
     }
     return 0;
 }
+/*Student grade system out put
+Enter number of students: 3
+Enter marks for student 1 (0-100): 85
+Grade: B
+Enter marks for student 2 (0-100): 92
+Grade: A
+Enter marks for student 3 (0-100): 70
+Grade: C
+
+Average: 82.3333
+Highest: 92
+Lowest: 70*/
