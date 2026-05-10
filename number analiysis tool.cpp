@@ -23,3 +23,10 @@ int main() {
     cout << "Even: " << e << "\nOdd: " << o << "\nPos: " << p << "\nNeg: " << neg << endl;
     return 0;
 }
+/*Number analiysis tool out put
+Enter count of numbers: 4
+3 4 -5 10
+Even: 2
+Odd: 2
+Pos: 3
+Neg: 1*/
