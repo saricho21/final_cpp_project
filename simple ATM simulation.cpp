@@ -27,3 +27,17 @@ int main() {
     }
     return 0;
 }
+/*Simple ATM simulation out put
+1.Withdraw 2.Deposit 3.Balance 4.Exit: 3
+Bal: 1000
+
+1.Withdraw 2.Deposit 3.Balance 4.Exit: 1
+500
+
+1.Withdraw 2.Deposit 3.Balance 4.Exit: 2
+5000
+
+1.Withdraw 2.Deposit 3.Balance 4.Exit: 3
+Bal: 5500
+
+1.Withdraw 2.Deposit 3.Balance 4.Exit: 4*/
