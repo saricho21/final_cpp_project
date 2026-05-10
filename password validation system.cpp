@@ -25,3 +25,10 @@ int main() {
     cout << "Locked out.\n";
     return 0;
 }
+/*Password validation system out put
+Enter complex password: abc12
+Weak password.
+Enter complex password: 12345678
+Weak password.
+Enter complex password: Admas2018
+Valid!*/
