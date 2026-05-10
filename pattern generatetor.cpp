@@ -19,3 +19,18 @@ int main() {
     }
     return 0;
 }
+/*Pattern generator out put
+1.Triangle 2.Pyramid: 1
+Rows: 5
+*
+**
+***
+****
+*****
+1.Triangle 2.Pyramid: 2
+Rows: 5
+    *
+   ***
+  *****
+ *******
+**********/
