@@ -20,3 +20,8 @@ int main() {
     cout << "Score: " << s << "/3" << endl;
     return 0;
 }
+/*Quiz game system out put
+10+10? (1. 20, 2. 30): 1
+Capital of IT? (1. Silicon Valley, 2. Mars): 1
+C++ creator? (1. Bjarne, 2. Musk): 2
+Score: 2/3*/
