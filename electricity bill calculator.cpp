@@ -18,3 +18,8 @@ int main() {
     cout << "Total: " << b << endl;
     return 0;
 }
+/*electricity bill out put
+Units: 80
+Total: 120
+Units: 400
+Total: 1207.5*/
