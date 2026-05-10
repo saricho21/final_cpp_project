@@ -36,3 +36,28 @@ int main() {
     }
     return 0;
 }
+/*Bank account simulation out put
+1. Deposit
+2. Withdraw
+3. Balance
+4. Exit
+Choice: 1
+Amount: 5000
+
+1. Deposit
+2. Withdraw
+3. Balance
+4. Exit
+Choice: 2
+Amount: 2000
+
+1. Deposit
+2. Withdraw
+3. Balance
+Choice: 3
+Balance: $3000
+1. Deposit
+2. Withdraw
+3. Balance
+4. Exit
+Choice: 4*/
