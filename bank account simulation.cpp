@@ -36,7 +36,7 @@ int main() {
     }
     return 0;
 }
-/*Bank account simulation out put
+/*Sample Bank account simulation out put
 1. Deposit
 2. Withdraw
 3. Balance
@@ -60,4 +60,5 @@ Balance: $3000
 2. Withdraw
 3. Balance
 4. Exit
-Choice: 4*/
+Choice: 4
+..........*/
