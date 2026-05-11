@@ -19,4 +19,3 @@ Author: saricho21
 * **Dagim Shiferaw 2**----ID: 043/25
 * **Endrias Bahre  3**-----ID: 0117/25
 * **Semhar Michael 4**----ID: 0800/25
-* **Nahom Atnafu  5**-----ID: 0172/25
